@@ -1,0 +1,9 @@
+[user]
+	name = DEF
+	email = defmegs@gmail.com
+[alias]
+	history = log
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
